@@ -1,16 +1,18 @@
-# purple-dark-horizon README
+# Purple Dark Horizon
 
-## Working with Markdown
+## A fork of "Dark Horizon", with purple theming.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<div align='center'>
+<img src='preview.png'>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+
+
+That is a VSCode theme forked from "Dark Horizon", created by <a href='https://github.com/mcagampan/dark-horizon'><i>mcagampan</i></a>, with the colors inspired on <a href='https://marketplace.visualstudio.com/items?itemName=victorfadias.victor-s-dark-horizon'><i>Victor's Dark Horizon</i></a>, but in a purple way.
+</div>
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Theme repository on github](https://github.com/risixdzn/purple-dark-horizon)
+* [VSCode theming docs](https://code.visualstudio.com/docs/getstarted/themes)
 
 **Enjoy!**
