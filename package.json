@@ -2,7 +2,7 @@
   "name": "purple-dark-horizon",
   "displayName": "Purple-Dark-Horizon",
   "description": "Fork of \"Dark Horizon\", inspired in Victor's Dark Horizon, but focusing on being a purple color theme.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "logo.png",
   "publisher": "risixdzn",
   "engines": {
@@ -14,7 +14,10 @@
   "keywords": [
     "rsx",
     "Ricardo Amorim",
-    "purple dark horizon"
+    "purple dark horizon",
+    "purple theme",
+    "dark purple",
+    "horizon purple"
   ],
   "contributes": {
     "themes": [
