@@ -3,11 +3,17 @@
   "displayName": "Purple-Dark-Horizon",
   "description": "Fork of \"Dark Horizon\", inspired in Victor's Dark Horizon, but focusing on being a purple color theme.",
   "version": "0.0.1",
+  "publisher": "risixdzn",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "rsx",
+    "Ricardo Amorim",
+    "purple dark horizon"
   ],
   "contributes": {
     "themes": [
@@ -17,5 +23,12 @@
         "path": "./themes/Purple Dark Horizon-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/risixdzn/purple-dark-horizon.git"
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
