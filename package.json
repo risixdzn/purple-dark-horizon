@@ -2,7 +2,8 @@
   "name": "purple-dark-horizon",
   "displayName": "Purple-Dark-Horizon",
   "description": "Fork of \"Dark Horizon\", inspired in Victor's Dark Horizon, but focusing on being a purple color theme.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "logo.png",
   "publisher": "risixdzn",
   "engines": {
     "vscode": "^1.78.0"
