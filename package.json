@@ -1,10 +1,10 @@
 {
-  "name": "purple-dark-horizon",
-  "displayName": "Purple-Dark-Horizon",
+  "name": "purplerer-dark-horizon",
+  "displayName": "Purplerer-Dark-Horizon",
   "description": "Fork of \"Dark Horizon\", inspired in Victor's Dark Horizon, but focusing on being a purple color theme.",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "icon": "logo.png",
-  "publisher": "risixdzn",
+  "publisher": "kwwala",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -12,25 +12,25 @@
     "Themes"
   ],
   "keywords": [
-    "rsx",
-    "Ricardo Amorim",
+    "kwwala",
     "purple dark horizon",
     "purple theme",
     "dark purple",
-    "horizon purple"
-  ],
+    "horizon purple",
+    "purplerer"
+  ], 
   "contributes": {
     "themes": [
       {
-        "label": "Purple Dark Horizon",
+        "label": "Purplerer Dark Horizon",
         "uiTheme": "vs-dark",
-        "path": "./themes/Purple Dark Horizon-color-theme.json"
+        "path": "./themes/Purplerer Dark Horizon-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/risixdzn/purple-dark-horizon.git"
+    "url": "git+https://github.dev/kwwala/purplererdarkhorizon.git"
   },
   "dependencies": {
     "vsce": "^2.15.0"
