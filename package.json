@@ -1,38 +1,38 @@
 {
-  "name": "purple-dark-horizon",
-  "displayName": "Purple-Dark-Horizon",
-  "description": "Fork of \"Dark Horizon\", inspired in Victor's Dark Horizon, but focusing on being a purple color theme.",
-  "version": "0.0.4",
-  "icon": "logo.png",
-  "publisher": "risixdzn",
-  "engines": {
-    "vscode": "^1.78.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "rsx",
-    "Ricardo Amorim",
-    "purple dark horizon",
-    "purple theme",
-    "dark purple",
-    "horizon purple"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Purple Dark Horizon",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Purple Dark Horizon-color-theme.json"
-      }
-    ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/risixdzn/purple-dark-horizon.git"
-  },
-  "dependencies": {
-    "vsce": "^2.15.0"
-  }
+    "name": "purple-dark-horizon",
+    "displayName": "Purple-Dark-Horizon",
+    "description": "Fork of \"Dark Horizon\", inspired in Victor's Dark Horizon, but focusing on being a purple color theme.",
+    "version": "0.0.5",
+    "icon": "logo.png",
+    "publisher": "risixdzn",
+    "engines": {
+        "vscode": "^1.78.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "rsx",
+        "Ricardo Amorim",
+        "purple dark horizon",
+        "purple theme",
+        "dark purple",
+        "horizon purple"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple Dark Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple Dark Horizon-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/risixdzn/purple-dark-horizon.git"
+    },
+    "dependencies": {
+        "vsce": "^2.15.0"
+    }
 }
